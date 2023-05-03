@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&display=swap');
+
 html {
     background-color: #add3fa;
     font-family: 'Open Sans', sans-serif;
@@ -17,8 +21,12 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #eb9191;
     line-height: 2.5em;
+}
+
+h1.page-header {
+    font-family: 'Lobster', sans-serif;
 }
 
 main.wrapper {
@@ -35,6 +43,11 @@ h2,h3 {
     margin-left: 1em;
     line-height: 1em;
 }
+
+h2.funny-joke {
+    font-family: 'Libre Barcode 128';
+}
+
 
 a {
     color:darkcyan;
