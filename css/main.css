@@ -1,10 +1,10 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: #add3fa;
+    font-family: 'Open Sans', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -22,7 +22,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: #dce7fa;
     overflow: auto;
 }
 
