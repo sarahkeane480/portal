@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&display=swap');
 
 html {
-    background-color: #add3fa;
+    background-color: #F99B7D;
     font-family: 'Open Sans', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -21,17 +21,19 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #eb9191;
+    background: #E76161;
     line-height: 2.5em;
 }
 
 h1.page-header {
     font-family: 'Lobster', sans-serif;
+    border-radius: 25px 25px 0px 0px;
 }
 
 main.wrapper {
-    background-color: #dce7fa;
+    background-color: #8BACAA;
     overflow: auto;
+    border-radius: 0px 0px 25px 25px;
 }
 
 p {
@@ -50,7 +52,7 @@ h2.funny-joke {
 
 
 a {
-    color:darkcyan;
+    color: #f01952;
     text-decoration: none;
 }
 
