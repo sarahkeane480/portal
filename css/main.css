@@ -4,8 +4,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&display=swap');
-
 html {
     background-color: #F99B7D;
     font-family: 'Open Sans', sans-serif;
@@ -45,11 +43,6 @@ h2,h3 {
     margin-left: 1em;
     line-height: 1em;
 }
-
-h2.funny-joke {
-    font-family: 'Libre Barcode 128';
-}
-
 
 a {
     color: #f01952;
